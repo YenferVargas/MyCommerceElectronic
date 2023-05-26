@@ -24,9 +24,9 @@ public class DeslizanteActivity extends PagerAdapter {
     }
     int imagesArray[] = {
 
-            R.drawable.onboardscreen1,
-            R.drawable.onboardscreen2,
-            R.drawable.onboardscreen3
+            R.drawable.home_2,
+            R.drawable.home_3,
+            R.drawable.home_9
 
     };
     int headingArray [] = {

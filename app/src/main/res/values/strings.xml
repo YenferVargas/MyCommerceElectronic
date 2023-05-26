@@ -1,10 +1,11 @@
 <resources>
-    <string name="app_name">MyCommerceElectronic</string>
+    <string name="app_name">Belleza Peruana</string>
     <string name="primera_slide">Elija sus productos</string>
     <string name="segunda_slide">Entrega rápida</string>
     <string name="tercera_slide">Buen servicio</string>
 
-    <string name="descripcion">Esto es un texto momentanemmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmo</string>
+    <string name="descripcion">¡No te pierdas las mejores ofertas del catálogo!...Creemos que la belleza no es sólo productos, sino también inspiración y conocimiento. En esta sección compartimos consejos y trucos para ayudarte a conocer las últimas tendencias y conseguir un estilo de vida saludable.</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
